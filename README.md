@@ -1,4 +1,4 @@
-# chat_app_flutter
+# Chat App with Flutter
 
 Real time Fast Chat Flutter project. Just simply register and start immediately chatting!
 
